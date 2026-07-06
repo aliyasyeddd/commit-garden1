@@ -10,3 +10,6 @@ Built a flask server
 Learned about React hooks
 ## 2026-07-06
 Built a node js server
+
+## 2026-07-06
+Learned about git commands
